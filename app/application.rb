@@ -20,3 +20,4 @@ class Application
     end
   end
   
+  #time=Time.now.strftime("%s").to_i 
